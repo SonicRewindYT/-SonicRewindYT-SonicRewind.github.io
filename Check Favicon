@@ -1,0 +1,2 @@
+- name: Check favicon
+  uses: Delsinvg/check-favicon-action@1.0
